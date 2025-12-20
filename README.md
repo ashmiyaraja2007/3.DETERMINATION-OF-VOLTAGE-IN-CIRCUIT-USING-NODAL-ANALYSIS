@@ -1,4 +1,6 @@
 # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
+**NAME :ASHMIYA.R**
+**REFRENCE NUMBER:25001337**
 
 **AIM:**
 
@@ -19,6 +21,15 @@ To determine the voltage in the circuit using nodal analysis both theoretically 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
 **Circuit diagram**
+<img width="718" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b05ea2e-d986-4daf-b760-2972acb5d108" />
+**TABULATION:**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/87434bfc-c7a7-463b-90ee-f25956e5f82e" />
+**CALCULATION:**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1cf36c0-3623-460f-901a-fa6e82c5af13" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/6ac27746-29a2-4a29-9b6b-bd489b99ea8c" />
+
+
+
 
 
  
@@ -35,15 +46,18 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+**MARKS SPLIT UP:**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/65c79483-b1fb-4710-a1a4-170539825dd9" />
+
 
 **RESULT:**
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is 0.63	V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is 0.18	V.
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is 0.45	V.
 
 
